@@ -10,6 +10,8 @@ I've created several projects ever since I started programming in 2015, some lar
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true)
 
+[![fbes's 42 stats](https://badge42.herokuapp.com/api/stats/fbes?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 <!--![Metrics](https://metrics.lecoq.io/W2Wizard) -->
 
 <!--

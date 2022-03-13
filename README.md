@@ -6,8 +6,11 @@ I've created several projects ever since I started programming in 2015, some lar
 
 ### Some useless stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=freekbes&theme=dark&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=freekbes&theme=dark&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="156" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER" height="156" />
+</a>
 
 [![fbes's 42 stats](https://badge42.herokuapp.com/api/stats/fbes?privacyEmail=true)](https://profile.intra.42.fr/users/fbes)

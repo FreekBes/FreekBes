@@ -13,4 +13,4 @@ I've created several projects ever since I started programming in 2015, some lar
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER" height="156" />
 </a>
 
-[![fbes's 42 stats](https://badge42.herokuapp.com/api/stats/fbes?privacyEmail=true)](https://profile.intra.42.fr/users/fbes)
+[![fbes's 42 stats](https://badge42.vercel.app/api/v2/cl1o16nym001109lewimxyxs8/stats?cursusId=21&coalitionId=58)](https://profile.intra.42.fr/users/fbes)

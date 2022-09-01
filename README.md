@@ -2,14 +2,14 @@
 My name is Freek. I'm a guy who enjoys programming (who would have thought!), playing videogames, producing and listening to music, and taking pictures. Currently working for [Codam Coding College](https://codam.nl/), which is part of the [42 Network](https://en.wikipedia.org/wiki/42_(school)). I am also still a student there - I will finish the curriculum this year. My work on projects for 42 is available in the [@fbescodam](https://github.com/fbescodam) organization, since it clutters my profile a bit if I just leave that here.
 
 
-I've created several personal projects ever since I started programming in 2015, some larger than others. The biggest one is probably TunePlay, which was a website where you could play music from most platforms (YouTube, Spotify, Soundcloud, Deezer, Mixcloud) using just one interface. I also created [@me_irl_bot](https://github.com/FreekBes/insta_reddit_bot) on Instagram, which once had over 200,000 followers (until Instagram deactivated the account and I had to start over in 2019 and 2021 respectively). In 2021, I created [Improved Intra 42](https://github.com/FreekBes/improved_intra), a browser extension that aims to improve the intranet of 42 schools by providing more (personalized) features and improving its visuals. It is currently used by over 10% of the active student population.
+I've created several personal projects ever since I started programming in 2015, some larger than others. The biggest one is probably TunePlay, which was a website where you could play music from most platforms (YouTube, Spotify, Soundcloud, Deezer, Mixcloud) using just one interface. I also created [@me_irl_bot](https://github.com/FreekBes/insta_reddit_bot) on Instagram, which once had over 200,000 followers (until Instagram deactivated the account and I had to start over in 2019 and 2021 respectively). In 2021, I created [Improved Intra 42](https://github.com/FreekBes/improved_intra), a browser extension that aims to improve the intranet of 42 Network schools by providing more (personalized) features and improving its visuals. It is currently used by over 10% of the active student population.
 
 
 The source code for _most_ of my projects is open sourced here, on this GitHub profile. Have a look around!
 
 
 ### Links
-[Portfolio](https://freekb.es/) | [LinkedIn](https://www.linkedin.com/in/freek-bes/) | [Twitter](https://twitter.com/FreekBes) | [Instagram](https://www.instagram.com/freekbes) | [42 Profile](https://profile.intra.42.fr/users/fbes)
+[Portfolio](https://freekb.es/) <sub><sup>(needs some updating)</sup></sub> | [LinkedIn](https://www.linkedin.com/in/freek-bes/) | [Twitter](https://twitter.com/FreekBes) | [Instagram](https://www.instagram.com/freekbes) | [42 Profile](https://profile.intra.42.fr/users/fbes)
 
 
 ### Some useless stats
@@ -21,8 +21,8 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
 </a>
 
 
-### Main languages
-I am proficient in the following programming languages: Javascript, PHP, Python, C, CSS (yes, CSS is not a language but it is a skill on its own). I have also worked with C++, Java, Typescript, SQL and probably a bunch of other languages before, that I have now forgotten about. In the end, I believe I can pick up any language and understand it (although assembly is probably not for me, too specific and barebone).
+### Programming languages I main
+I am proficient in C, Javascript, Python, PHP, CSS (yes, CSS is not a "real" language but it is still a skill on its own). I have also worked with C++, Java, Typescript, Coffeescript, SQL and probably a bunch of others before. In the end, I believe I can pick up any language and understand it (although assembly is probably not for me, too specific and barebone).
 
 
 ### Programming history: my journey through the years
@@ -34,5 +34,5 @@ I am proficient in the following programming languages: Javascript, PHP, Python,
 - **2018:** Discovered the use of APIs, bundled many together into [TunePlay](https://github.com/FreekBes/tuneplay) (a website that played music from various streaming platforms using the same interface). Started [@me_irl_bot](https://github.com/FreekBes/insta_reddit_bot) on Instagram, which gained over 200.000 followers
 - **2019:** Co-founded [a start-up](https://assembl.net/) in Switzerland where I was CTO, which gained interest by a VC, created a functioning tech demo
 - **2020:** Covid-19 distrupted the high school I was working at as IT Assistant. However, I made sure lessons could continue smoothly within 3 days of the school's closure, by creating [a link](https://github.com/damstede/zermelo-google-rooster) between our scheduling software and Google Meet
-- **2021:** Joined Codam Coding College (at the end of 2020) to increase my programming skills further and meet like-minded people
+- **2021:** Joined Codam Coding College (at the end of 2020) to further increase my programming skills further and meet like-minded people
 - **2022:** Joined the staff team of Codam Coding College, first as IT Assistant, later as System and Network Administrator

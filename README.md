@@ -27,12 +27,12 @@ I am proficient in C, Javascript, Python, PHP, CSS (yes, CSS is not a "real" lan
 
 ### Programming history: my journey through the years
 - **<2013:** Broke and fixed many Windows installations and versions, which thaught me a lot about this operating system
-- **2014:** Started attending a programming course in high school
+- **2014:** Started attending a computer science course in high school. Learnt binary calculation, Java programming, basic HTML, simplistic "AI" scenarios...
 - **2015:** Started basic web development: learnt the ins and outs of HTML & CSS
-- **2016:** Increased my Javascript skills a lot
+- **2016:** Increased my Javascript skills a lot and combined it with PHP
 - **2017:** Won a Lego Mindstorms tournament in high school, by reading the documentation instead of using direct code (snippets) provided by the school
 - **2018:** Discovered the use of APIs, bundled many together into [TunePlay](https://github.com/FreekBes/tuneplay) (a website that played music from various streaming platforms using the same interface). Started [@me_irl_bot](https://github.com/FreekBes/insta_reddit_bot) on Instagram, which gained over 200.000 followers
 - **2019:** Co-founded [a start-up](https://assembl.net/) in Switzerland where I was CTO, which gained interest by a VC, created a functioning tech demo
 - **2020:** Covid-19 distrupted the high school I was working at as IT Assistant. However, I made sure lessons could continue smoothly within 3 days of the school's closure, by creating [a link](https://github.com/damstede/zermelo-google-rooster) between our scheduling software and Google Meet
-- **2021:** Joined Codam Coding College (at the end of 2020) to further increase my programming skills further and meet like-minded people
+- **2021:** Started attending Codam Coding College (at the end of 2020) to further increase my programming skills further and meet like-minded people
 - **2022:** Joined the staff team of Codam Coding College, first as IT Assistant, later as System and Network Administrator

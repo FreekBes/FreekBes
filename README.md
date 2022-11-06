@@ -17,7 +17,7 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FreekBes&count_private=true&show_icons=true&theme=dark" height="156" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER" height="156" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=find-peers,MLX42,Fast42,coalition-ranks,book-club,42hero" height="156" />
 </a>
 
 

@@ -26,6 +26,11 @@ I am proficient in C, Javascript, Python, PHP, CSS (yes, CSS is not a "real" lan
 
 
 ### Programming history: my journey through the years
+<details>
+<summary>
+  Click to view
+</summary>
+
 - **<2013:** Broke and fixed many Windows installations and versions, which taught me a lot about this operating system
 - **2014:** Started attending a computer science course in high school. Learnt binary calculation, Java programming, basic HTML, simplistic "AI" scenarios...
 - **2015:** Started basic web development: learnt the ins and outs of HTML & CSS
@@ -36,3 +41,5 @@ I am proficient in C, Javascript, Python, PHP, CSS (yes, CSS is not a "real" lan
 - **2020:** Covid-19 disrupted the high school I was working at as IT Assistant. However, I made sure lessons could continue smoothly within 3 days of the school's closure, by creating [a link](https://github.com/damstede/zermelo-google-rooster) between our scheduling software and Google Meet
 - **2021:** Started attending Codam Coding College (at the end of 2020) to further increase my programming skills and meet like-minded people
 - **2022:** Joined the staff team of Codam Coding College, first as IT Assistant, later as System and Network Administrator. Finished the core curriculum.
+
+</details>

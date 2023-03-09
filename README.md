@@ -2,7 +2,7 @@
 My name is Freek. I'm a guy who enjoys programming (who would have thought!), playing videogames, producing and listening to music, and taking pictures. Currently working as System & Network Administrator for [Codam Coding College](https://codam.nl/), which is part of the [42 Network](https://en.wikipedia.org/wiki/42_(school)). I also studied there - if you're interested in what the school's curriculum is like, feel free to refer to my submitted work in the [@fbescodam](https://github.com/fbescodam) organization.
 
 
-I've created several personal projects ever since I started programming in 2015, some larger than others. The biggest one is probably TunePlay, which was a website where you could play music from most platforms (YouTube, Spotify, Soundcloud, Deezer, Mixcloud) using just one interface. I also created [@me_irl_bot](https://github.com/FreekBes/insta_reddit_bot) on Instagram, which once had over 200,000 followers (until Instagram deactivated the account and I had to start over in 2019 and 2021 respectively). In 2021, I created [Improved Intra 42](https://github.com/FreekBes/improved_intra), a browser extension that aims to improve the intranet of 42 Network schools by providing more (personalized) features and improving its visuals. It is currently used by over 10% of the active student population.
+I've created several personal projects ever since I started programming in 2015, some larger than others. The biggest one is probably TunePlay, which was a website where you could play music from most platforms (YouTube, Spotify, Soundcloud, Deezer, Mixcloud) using just one interface. I also created [@me_irl_bot](https://github.com/FreekBes/insta_reddit_bot) on Instagram, which gained over 200,000 followers and roughly 25 million weekly impressions (until Instagram deactivated the account). In 2021, I created [Improved Intra 42](https://github.com/FreekBes/improved_intra), a browser extension that aims to improve the intranet of 42 Network schools by providing more (personalized) features and improving its visuals. It is currently used by over 25% of the active student population.
 
 
 The source code for _most_ of my projects is open sourced here, on this GitHub profile. Have a look around!
@@ -22,7 +22,7 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
 
 
 ### Programming languages I main
-I am proficient in C, Javascript, Python, PHP, CSS (yes, CSS is not a "real" language, but it is still a valuable skill). I have also worked with C++, Java, Typescript, Coffeescript, SQL and probably a bunch of others before. In the end, I believe I can pick up any language and understand its functioning (although assembly is probably not for me, too specific and barebone).
+I am proficient in Python, Javascript, PHP, C, Bash, CSS (yes, CSS is not a "real" language, but it is still a valuable skill). I have also worked with C++, Java, Typescript, Go, Ruby, pSQL and probably a bunch of others before. In the end, I believe I can pick up any language and understand its functioning.
 
 
 ### Programming history: my journey through the years

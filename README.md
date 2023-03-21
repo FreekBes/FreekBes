@@ -17,7 +17,7 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FreekBes&count_private=true&show_icons=true&theme=dark" height="156" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=find-peers,MLX42,Fast42,coalition-ranks,book-club,42hero" height="156" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=MLX42,Fast42-ts,coalition-ranks,book-club,42hero,fast42-rs,mdBook-multi-runner,code-playground-backend,GalaxyEditor,spark-sessions,42-typos,electronics-club,Intra.NET,42-connector,peerpp-tests,flux-infra,rust-axum-test,codamservices" height="156" />
 </a>
 
 
@@ -32,7 +32,7 @@ I am proficient in Python, Javascript, PHP, C, Bash, CSS (yes, CSS is not a "rea
 </summary>
 
 - **<2013:** Broke and fixed many Windows installations and versions, which taught me a lot about this operating system
-- **2014:** Started attending a computer science course in high school. Learnt binary calculation, Java programming, basic HTML, simplistic "AI" scenarios...
+- **2014:** Started attending a computer science course in high school: learnt binary calculation, Java programming, basic HTML, simplistic "AI" scenarios
 - **2015:** Started basic web development: learnt the ins and outs of HTML & CSS
 - **2016:** Increased my Javascript skills a lot and combined it with PHP
 - **2017:** Won a Lego Mindstorms tournament in high school, by reading the documentation instead of using code (snippets) provided by the school
@@ -40,6 +40,6 @@ I am proficient in Python, Javascript, PHP, C, Bash, CSS (yes, CSS is not a "rea
 - **2019:** Co-founded [a start-up](https://assembl.net/) in Switzerland where I was CTO, which gained the interest of a VC; created a functioning tech demo
 - **2020:** Covid-19 disrupted the high school I was working at as IT Assistant. However, I made sure lessons could continue smoothly within 3 days of the school's closure, by creating [a link](https://github.com/damstede/zermelo-google-rooster) between our scheduling software and Google Meet
 - **2021:** Started attending Codam Coding College (at the end of 2020) to further increase my programming skills and meet like-minded people
-- **2022:** Joined the staff team of Codam Coding College, first as IT Assistant, later as System and Network Administrator. Finished the core curriculum.
+- **2022:** Joined the staff team of Codam Coding College as System and Network Administrator, finished the core curriculum
 
 </details>

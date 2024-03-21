@@ -22,7 +22,7 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
 
 
 ### Programming languages I main
-I am proficient in Python, Javascript, PHP, C, Bash, CSS (yes, CSS is not a "real" language, but it is still a valuable skill). I have also worked with C++, Java, Typescript, Go, Ruby, pSQL and probably a bunch of others before. In the end, I believe I can pick up any language and understand its functioning.
+I am proficient in Javascript/Typescript, Python, PHP, C, Bash, CSS (yes, CSS is not a "real" language, but it is still a valuable skill). I have also worked with C++, Java, Go, Ruby, pSQL and probably a bunch of others before. In the end, I believe I can pick up any language and understand its functioning.
 
 
 ### Programming history: my journey through the years

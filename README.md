@@ -17,7 +17,7 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FreekBes&count_private=true&show_icons=true&theme=dark&hide_rank=true" height="180" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&card_width=400&langs_count=8&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=MLX42,Fast42-ts,coalition-ranks,book-club,42hero,fast42-rs,mdBook-multi-runner,code-playground-backend,GalaxyEditor,spark-sessions,42-typos,electronics-club,Intra.NET,42-connector,peerpp-tests,flux-infra,rust-axum-test,codamservices,freeradius-server,krb5,imac-audio-driver" height="180" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&langs_count=8&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=MLX42,Fast42-ts,coalition-ranks,book-club,42hero,fast42-rs,mdBook-multi-runner,code-playground-backend,GalaxyEditor,spark-sessions,42-typos,electronics-club,Intra.NET,42-connector,peerpp-tests,flux-infra,rust-axum-test,codamservices,freeradius-server,krb5,imac-audio-driver" height="180" />
 </a>
 
 

@@ -9,15 +9,15 @@ The source code for _most_ of my projects is open sourced here, on this GitHub p
 
 
 ### Links
-[Portfolio](https://freekb.es/) <sub><sup>(needs some updating)</sup></sub> | [LinkedIn](https://www.linkedin.com/in/freek-bes/) | [Twitter](https://twitter.com/FreekBes) | [Instagram](https://www.instagram.com/freekbes) | [42 Profile](https://profile.intra.42.fr/users/fbes)
+[Website](https://freekb.es/) | <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="15" title="LinkedIn"> [LinkedIn](https://www.linkedin.com/in/freek-bes/) | [42 Profile](https://profile.intra.42.fr/users/fbes)
 
 
 ### Some useless stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FreekBes&count_private=true&show_icons=true&theme=dark" height="156" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FreekBes&count_private=true&show_icons=true&theme=dark" height="200" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=MLX42,Fast42-ts,coalition-ranks,book-club,42hero,fast42-rs,mdBook-multi-runner,code-playground-backend,GalaxyEditor,spark-sessions,42-typos,electronics-club,Intra.NET,42-connector,peerpp-tests,flux-infra,rust-axum-test,codamservices" height="156" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=freekbes&theme=dark&layout=compact&card_width=400&langs_count=8&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=MLX42,Fast42-ts,coalition-ranks,book-club,42hero,fast42-rs,mdBook-multi-runner,code-playground-backend,GalaxyEditor,spark-sessions,42-typos,electronics-club,Intra.NET,42-connector,peerpp-tests,flux-infra,rust-axum-test,codamservices,freeradius-server,krb5,imac-audio-driver" height="200" />
 </a>
 
 

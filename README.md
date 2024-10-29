@@ -31,6 +31,7 @@ I am proficient in Javascript/Typescript, Python, PHP, C, Bash, CSS (yes, CSS is
   Click to view
 </summary>
 
+- **2024:** Became IT Lead at Codam Coding College, representing everything IT of the Amsterdam campus within 42 Network.
 - **2023:** Migrated the entire fleet of computers at Codam Coding College from macOS to Linux with almost zero downtime.
 - **2022:** Joined the staff team of Codam Coding College as System and Network Administrator, finished their core curriculum.
 - **2021:** Started attending Codam Coding College (at the end of 2020) to further increase my programming skills and meet like-minded people. Created [Improved Intra 42](https://github.com/FreekBes/improved_intra), a browser extension with over 3000 monthly users.
